@@ -7,7 +7,7 @@ thickness = 6;
 
 belt_holder_screw_spacing = 41;
 
-bearing_spacing_x = 174;
+bearing_spacing_x = 170;
 bearing_spacing_y = 70;
 bearing_length = 24;
 bearing_width_at_depth = 10;
